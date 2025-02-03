@@ -14,7 +14,7 @@ git clone https://github.com/mclitos/nexterm
 ```
 
 ```
- docker compoase up -d
+ docker compose up -d
 ```
 
 Ver en "localhost:6989"
